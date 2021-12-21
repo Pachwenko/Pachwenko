@@ -1,7 +1,7 @@
 ## Hi, I'm Patrick
 
 - 🔭 I’m currently working at [IMT Computer Services](https://github.com/imtapps)
-- 🌱 I’m currently taking a break after learning [React.js](https://reactjs.org/), [Redux.js](https://redux.js.org/), and [Svelte.js](https://svelte.dev/) to complete the [Free Code Camp Frontend Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/) You can see my finished projects [here](https://stoic-leakey-17456a.netlify.app/)
+- 🌱 I’m currently honing my frontend skills by building [a weather app](https://github.com/Pachwenko/almost-accurate-weather).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I built a game in 7 days for a competiting you can play here in your browser https://scarletkeep.com/
 - 📋 I have a blog at https://patrickmccartney.dev/
